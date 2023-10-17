@@ -4,13 +4,12 @@ import _dev from './tools/_dev';
 import _mobilesite from './tools/_mobilesite';
 import _movementTemplate from './tools/_movementTemplate';
 import _forest1 from './tools/_Forest1';
-
-import MainMenu from './scenes/cutscene/MainMenu';
-import CutScene1 from './scenes/CUTSCENE/CutScene1';
-import CutScene2 from './scenes/CUTSCENE/CutScene2';
-import CutScene3 from './scenes/CUTSCENE/CutScene3';
+import Delivery2 from "./scenes/Delivery2"
 import Delivery from './scenes/Delivery';
-import Delivery2 from './scenes/Delivery2';
+import MainMenu from "./scenes/CUTSCENE/MainMenu"
+import CutScene1 from "./scenes/CUTSCENE/CutScene1"
+import CutScene2  from './scenes/CUTSCENE/CutScene2';
+import CutScene3 from "./scenes/CUTSCENE/CutScene3"
 import Temple from './scenes/Temple';
 import PathSelection from './scenes/PathSelection';
 import CodingPath from './scenes/CodingPath';
